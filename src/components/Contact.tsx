@@ -107,7 +107,9 @@ const Contact: React.FC = () => {
             </div>
           </div>
 
-      
+     
+       
+        </div>
       </div>
     </section>
   );
