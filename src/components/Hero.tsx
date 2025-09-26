@@ -31,8 +31,7 @@ const Hero: React.FC = () => {
             </h1>
             
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              Join Tarteel Academy and unlock your fluency in Arabic with live, interactive tutoring. 
-              Learn from expert instructors anywhere in the world.
+              Master Arabic with confidence. Join Ibn Maalik Institute for live, personalized tutoring with expert instructors from anywhere in the world.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-8">
