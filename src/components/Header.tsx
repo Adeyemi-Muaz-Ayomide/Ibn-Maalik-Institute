@@ -43,11 +43,7 @@ const Header: React.FC = () => {
         <div className="md:hidden">
           <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-white border-t">
             <a href="#home" className="block px-3 py-2 text-gray-700 hover:text-emerald-600">Home</a>
-            <a href="#about" className="block px-3 py-2 text-gray-700 hover:text-emerald-600">About</a>
-            <a href="#courses" className="block px-3 py-2 text-gray-700 hover:text-emerald-600">Courses</a>
-            <a href="#pricing" className="block px-3 py-2 text-gray-700 hover:text-emerald-600">Pricing</a>
-            <a href="#blog" className="block px-3 py-2 text-gray-700 hover:text-emerald-600">Blog</a>
-            <a href="#contact" className="block px-3 py-2 text-gray-700 hover:text-emerald-600">Contact</a>
+            
             <a
               href="https://wa.me/1234567890?text=Hi, I'm interested in joining Tarteel Academy!"
               target="_blank"
