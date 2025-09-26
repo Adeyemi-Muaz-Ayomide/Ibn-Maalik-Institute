@@ -6,7 +6,7 @@ const About: React.FC = () => {
     <section id="about" className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className=" mb-16">
-          <h2 className="text-4xl font-bold text-gray-900 mb-4">About Our Institute</h2>
+          <h2 className="text-4xl text-center font-bold text-gray-900 mb-4">About Our Institute</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             We are committed to making Arabic learning simple, structured, and inspiring for Muslims around the world. Our mission is to help students not only study Arabic, but live it — speaking with confidence, understanding the Qur’an more deeply, and building a lasting connection with the language.
           </p>
