@@ -23,7 +23,7 @@ const Contact: React.FC = () => {
                   <MessageCircle className="w-6 h-6 text-green-600 mt-1 mr-4 flex-shrink-0" />
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-2">WhatsApp (Preferred)</h4>
-                    <p className="text-gray-600 mb-3">Get instant responses and personalized guidance</p>
+                    <p className="text-gray-600 mb-3">Get instant responses and personalized guidance. For faster response, we recommend contacting us via WhatsApp</p>
                     <a
                       href="https://wa.me/1234567890?text=Hi, I'm interested in joining Tarteel Academy!"
                       target="_blank"
