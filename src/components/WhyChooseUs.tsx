@@ -62,7 +62,7 @@ const WhyChooseUs: React.FC = () => {
         </div>
 
         {/* Comparison Section */}
-        <div className="bg-gradient-to-r from-gray-50 to-gray-100 rounded-2xl p-8">
+        {/* <div className="bg-gradient-to-r from-gray-50 to-gray-100 rounded-2xl p-8">
           <h3 className="text-2xl font-bold text-center text-gray-900 mb-8">How We Compare</h3>
           <div className="overflow-x-auto">
             <table className="w-full text-left">
@@ -122,10 +122,10 @@ const WhyChooseUs: React.FC = () => {
               </tbody>
             </table>
           </div>
-        </div>
+        </div> */}
 
         {/* CTA Section */}
-        <div className="mt-16 text-center">
+        {/* <div className="mt-16 text-center">
           <div className="bg-gradient-to-r from-emerald-600 to-emerald-700 rounded-2xl p-8 text-white">
             <h3 className="text-2xl font-bold mb-4">Ready to Experience the Difference?</h3>
             <p className="text-xl text-emerald-100 mb-6">
@@ -147,7 +147,7 @@ const WhyChooseUs: React.FC = () => {
                 View Pricing
               </a>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
