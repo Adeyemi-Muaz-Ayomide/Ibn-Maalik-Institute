@@ -124,6 +124,7 @@ const WhyChooseUs: React.FC = () => {
           </div>
         </div> */}
 
+        
         {/* CTA Section */}
         {/* <div className="mt-16 text-center">
           <div className="bg-gradient-to-r from-emerald-600 to-emerald-700 rounded-2xl p-8 text-white">
@@ -147,8 +148,8 @@ const WhyChooseUs: React.FC = () => {
                 View Pricing
               </a>
             </div>
-          </div> */}
-        </div>
+          </div>
+        </div> */}
       </div>
     </section>
   );
