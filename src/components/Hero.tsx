@@ -44,14 +44,15 @@ const Hero: React.FC = () => {
               >
                 Begin your Journey Today
               </a>
-              <button className="bg-white text-emerald-600 px-8 py-4 rounded-full border-2 border-emerald-600 hover:bg-emerald-50 transition-colors font-semibold text-lg flex items-center justify-center">
+              {/* <button className="bg-white text-emerald-600 px-8 py-4 rounded-full border-2 border-emerald-600 hover:bg-emerald-50 transition-colors font-semibold text-lg flex items-center justify-center">
                 <Play className="w-5 h-5 mr-2" />
                 Watch Intro Video
-              </button>
+              </button> */}
             </div>
 
+            
             {/* Stats */}
-            <div className="grid grid-cols-3 gap-8 text-center">
+            {/* <div className="grid grid-cols-3 gap-8 text-center">
               <div>
                 <div className="text-3xl font-bold text-emerald-600 mb-1">500+</div>
                 <div className="text-gray-600 text-sm">Students Taught</div>
@@ -65,7 +66,7 @@ const Hero: React.FC = () => {
                 <div className="text-gray-600 text-sm">Countries</div>
               </div>
             </div>
-          </div>
+          </div> */}
 
           {/* Right Column - Image/Video */}
           <div className="relative">
