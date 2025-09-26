@@ -13,7 +13,7 @@ const About: React.FC = () => {
           </p>
         </div>
 
-        <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
+        {/* <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
           <div className="relative">
             <div className="bg-gradient-to-br from-emerald-100 to-amber-100 rounded-2xl p-8">
               <img
@@ -29,14 +29,14 @@ const About: React.FC = () => {
                 </button>
               </div>
             </div>      
-          </div>
+          </div> */}
 
           {/* Content Section */}
           <div>
             <div className="mb-8">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Our Mission</h3>
               <p className="text-gray-600 text-lg leading-relaxed mb-6">
-                At Tarteel Academy, we believe that learning Arabic opens doors to deeper spiritual 
+                At Ibn Maalik Institute, we believe that learning Arabic opens doors to deeper spiritual 
                 connection and understanding. Our structured approach combines traditional teaching 
                 methods with modern technology to create an immersive learning experience.
               </p>
