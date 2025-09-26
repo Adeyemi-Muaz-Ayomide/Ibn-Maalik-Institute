@@ -27,7 +27,7 @@ const Hero: React.FC = () => {
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight mb-6">
               Master Arabic,{' '}
               <span className="text-emerald-600">Connect Deeper</span>{' '}
-              with your religion.
+              with your Religion.
             </h1>
             
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">             
