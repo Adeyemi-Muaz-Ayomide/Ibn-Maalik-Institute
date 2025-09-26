@@ -8,13 +8,12 @@ const About: React.FC = () => {
         <div className=" mb-16">
           <h2 className="text-4xl text-center font-bold text-gray-900 mb-4">About Our Institute</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We are committed to making Arabic learning simple, structured, and inspiring for Muslims around the world. Our mission is to help students not only study Arabic, but live it — speaking with confidence, understanding the Qur’an more deeply, and building a lasting connection with the language.
+            We are committed to making Arabic learning simple, structured, and inspiring for Muslims like you around the world. Our mission is to help you not only study Arabic, but live it, speaking with confidence, understanding the Qur’an more deeply, and building a lasting connection with the language.
           </p>
 
-          <p className="text-xl text-gray-600 pt-6 max-w-3xl mx-auto">
-                Our goal is to raise disciplined students who are grounded in the Qur’an, Sunnah, and the classical heritage of Islam
-                Every lesson is designed to build confidence and fluency, whether you're taking 
-                your first steps in Arabic or looking to perfect your recitation.
+          <p className="text-xl text-gray-600 pt-6 max-w-3xl mx-auto">              
+            Our goal is to develop disciplined students with deep roots in the Qur'an, Sunnah, and Islam's classical scholarly heritage.
+                Each lesson is carefully crafted to build your confidence and fluency, from your very first Arabic word to mastering complex texts.
               </p>
         </div>
 
