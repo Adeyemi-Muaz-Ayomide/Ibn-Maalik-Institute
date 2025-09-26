@@ -5,7 +5,7 @@ const About: React.FC = () => {
   return (
     <section id="about" className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center mb-16">
+        <div className=" mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">About Our Institute</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             We are committed to making Arabic learning simple, structured, and inspiring for Muslims around the world. Our mission is to help students not only study Arabic, but live it — speaking with confidence, understanding the Qur’an more deeply, and building a lasting connection with the language.
@@ -63,14 +63,14 @@ const About: React.FC = () => {
         {/* Stats Section */}
         <div className="bg-gradient-to-r from-emerald-600 to-emerald-700 rounded-2xl p-8 text-white">
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center">
-            <div>
+            {/* <div>
               <div className="text-3xl font-bold mb-2">3+</div>
               <div className="text-emerald-100">Years Experience</div>
-            </div>
-            <div>
+            </div> */}
+            {/* <div>
               <div className="text-3xl font-bold mb-2">500+</div>
               <div className="text-emerald-100">Students Worldwide</div>
-            </div>
+            </div> */}
             <div>
               <div className="text-3xl font-bold mb-2">25</div>
               <div className="text-emerald-100">Max Cohort Size</div>
