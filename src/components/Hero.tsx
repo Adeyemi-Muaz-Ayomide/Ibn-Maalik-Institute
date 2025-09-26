@@ -30,8 +30,7 @@ const Hero: React.FC = () => {
               with the Qur'an
             </h1>
             
-            <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-             
+            <p className="text-xl text-gray-600 mb-8 leading-relaxed">             
               Transform your Arabic from beginner to fluent speaker. Expert tutors, live classes, limitless possibilities - all at Ibn Maalik Institute.
             </p>
 
