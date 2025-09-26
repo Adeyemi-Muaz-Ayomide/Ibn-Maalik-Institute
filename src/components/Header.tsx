@@ -11,18 +11,11 @@ const Header: React.FC = () => {
           <div className="flex items-center">
             <BookOpen className="h-8 w-8 text-emerald-600 ml-2" />
             <span className="text-2xl font-bold text-emerald-800 mr-3" style={{ fontFamily: 'serif' }}>
-              Tarteel Academy
+              Ibn Maalik Institute
             </span>
           </div>
           
-          <nav className="hidden md:flex space-x-8">
-            <a href="#home" className="text-gray-700 hover:text-emerald-600 transition-colors">Home</a>
-            <a href="#about" className="text-gray-700 hover:text-emerald-600 transition-colors">About</a>
-            <a href="#courses" className="text-gray-700 hover:text-emerald-600 transition-colors">Courses</a>
-            <a href="#pricing" className="text-gray-700 hover:text-emerald-600 transition-colors">Pricing</a>
-            <a href="#blog" className="text-gray-700 hover:text-emerald-600 transition-colors">Blog</a>
-            <a href="#contact" className="text-gray-700 hover:text-emerald-600 transition-colors">Contact</a>
-          </nav>
+      
 
           <div className="hidden md:flex items-center space-x-4">
             <a
