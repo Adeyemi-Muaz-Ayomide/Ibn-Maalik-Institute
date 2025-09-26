@@ -15,8 +15,9 @@ const About: React.FC = () => {
         </div>
 
 
+        
           {/* Content Section */}
-        <div>
+        {/* <div>
             <div className="mb-8">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">What Makes Us Different</h3>      
             </div>
@@ -51,7 +52,7 @@ const About: React.FC = () => {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
 
         {/* Stats Section */}
         <div className="bg-gradient-to-r from-emerald-600 to-emerald-700 rounded-2xl p-8 text-white mt-10">
