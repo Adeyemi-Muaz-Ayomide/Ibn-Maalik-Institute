@@ -45,9 +45,9 @@ const WhyChooseUs: React.FC = () => {
     <section className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-gray-900 mb-4">Why Choose Tarteel Academy?</h2>
+          <h2 className="text-4xl font-bold text-gray-900 mb-4">Why Choose Ibn Maalik Institute?</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We're not just another online course - we're your dedicated partners in mastering Arabic with excellence
+            We're not just another online arabic school - we're your dedicated partners in mastering Arabic with excellence
           </p>
         </div>
 
