@@ -50,7 +50,9 @@ const Hero: React.FC = () => {
               </button>
             </div>
 
-          
+            {/* Stats */}
+            
+          </div>
           
 
           {/* Right Column - Image/Video */}
