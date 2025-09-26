@@ -8,28 +8,10 @@ const About: React.FC = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">About Our Institute</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We are dedicated to helping Muslims worldwide learn Arabic effectively, 
-            with structured lessons and personalized support.
+            We are committed to making Arabic learning simple, structured, and inspiring for Muslims around the world. Our mission is to help students not only study Arabic, but live it — speaking with confidence, understanding the Qur’an more deeply, and building a lasting connection with the language.
           </p>
         </div>
 
-        {/* <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
-          <div className="relative">
-            <div className="bg-gradient-to-br from-emerald-100 to-amber-100 rounded-2xl p-8">
-              <img
-                src="https://images.pexels.com/photos/8471884/pexels-photo-8471884.jpeg?auto=compress&cs=tinysrgb&w=800"
-                alt="Founder Introduction"
-                className="w-full h-80 object-cover rounded-xl"
-              />
-              <div className="absolute inset-8 rounded-xl bg-black bg-opacity-30 flex items-center justify-center">
-                <button className="bg-white rounded-full p-4 hover:scale-110 transition-transform">
-                  <svg className="w-6 h-6 text-emerald-600 ml-1" fill="currentColor" viewBox="0 0 20 20">
-                    <path d="M6.3 2.841A1.5 1.5 0 004 4.11V15.89a1.5 1.5 0 002.3 1.269l9.344-5.89a1.5 1.5 0 000-2.538L6.3 2.84z" />
-                  </svg>
-                </button>
-              </div>
-            </div>      
-          </div> */}
 
           {/* Content Section */}
         <div>
