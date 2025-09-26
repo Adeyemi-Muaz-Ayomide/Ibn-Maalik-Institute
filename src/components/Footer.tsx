@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
             <div className="flex items-center mb-6">
               <BookOpen className="h-8 w-8 text-emerald-400 ml-2" />
               <span className="text-2xl font-bold text-white mr-3" style={{ fontFamily: 'serif' }}>
-                Tarteel Academy
+                Ibn Maalik Institute
               </span>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
@@ -36,18 +36,8 @@ const Footer: React.FC = () => {
             </div>
           </div>
 
-          {/* Quick Links */}
-          <div>
-            <h3 className="text-lg font-semibold mb-6">Quick Links</h3>
-            <ul className="space-y-3">
-              <li><a href="#home" className="text-gray-300 hover:text-emerald-400 transition-colors">Home</a></li>
-              <li><a href="#about" className="text-gray-300 hover:text-emerald-400 transition-colors">About</a></li>
-              <li><a href="#courses" className="text-gray-300 hover:text-emerald-400 transition-colors">Courses</a></li>
-              <li><a href="#pricing" className="text-gray-300 hover:text-emerald-400 transition-colors">Pricing</a></li>
-              <li><a href="#blog" className="text-gray-300 hover:text-emerald-400 transition-colors">Blog</a></li>
-              <li><a href="#contact" className="text-gray-300 hover:text-emerald-400 transition-colors">Contact</a></li>
-            </ul>
-          </div>
+      
+         
 
           {/* Courses */}
           <div>
