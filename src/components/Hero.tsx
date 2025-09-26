@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
           <div className="text-center lg:text-left">
             <div className="inline-flex items-center px-4 py-2 bg-emerald-100 text-emerald-800 rounded-full text-sm font-medium mb-6">
               <Star className="w-4 h-4 mr-2" />
-              Trusted by 500+ Students Worldwide
+              Trusted by Students Worldwide
             </div>
             {/* <p class="mt-4 text-xl md:text-3xl text-emerald-600 px-3 py-1 rounded font-amiri">
   معهد ابن مالك
