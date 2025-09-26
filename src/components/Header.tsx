@@ -50,7 +50,7 @@ const Header: React.FC = () => {
               rel="noopener noreferrer"
               className="block mx-3 my-2 bg-emerald-600 text-white px-6 py-2 rounded-full hover:bg-emerald-700 transition-colors font-semibold text-center"
             >
-              Join Now
+              Enroll Now
             </a>
           </div>
         </div>
