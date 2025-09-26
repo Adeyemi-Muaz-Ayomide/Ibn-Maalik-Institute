@@ -18,8 +18,7 @@ const About: React.FC = () => {
           {/* Content Section */}
         <div>
             <div className="mb-8">
-              <h3 className="text-2xl font-bold text-gray-900 mb-4">What Makes Us Different</h3>
-            
+              <h3 className="text-2xl font-bold text-gray-900 mb-4">What Makes Us Different</h3>      
             </div>
 
             <div className="grid grid-cols-2 gap-6">
@@ -55,16 +54,9 @@ const About: React.FC = () => {
           </div>
 
         {/* Stats Section */}
-        <div className="bg-gradient-to-r from-emerald-600 to-emerald-700 rounded-2xl p-8 text-white">
+        <div className="bg-gradient-to-r from-emerald-600 to-emerald-700 rounded-2xl p-8 text-white mt-10">
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center">
-            {/* <div>
-              <div className="text-3xl font-bold mb-2">3+</div>
-              <div className="text-emerald-100">Years Experience</div>
-            </div> */}
-            {/* <div>
-              <div className="text-3xl font-bold mb-2">500+</div>
-              <div className="text-emerald-100">Students Worldwide</div>
-            </div> */}
+            
             <div>
               <div className="text-3xl font-bold mb-2">25</div>
               <div className="text-emerald-100">Max Cohort Size</div>
