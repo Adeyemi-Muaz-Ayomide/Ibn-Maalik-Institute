@@ -140,8 +140,8 @@ const Pricing: React.FC = () => {
               <p className="text-gray-600 text-sm">Continuous guidance and community access beyond the program</p>
             </div>
           </div>
-
-          <div className="bg-gradient-to-r from-gray-50 to-gray-100 rounded-2xl p-8">
+        </div>  
+        <div className="bg-gradient-to-r from-gray-50 to-gray-100 rounded-2xl p-8">
           <h3 className="text-2xl font-bold text-center text-gray-900 mb-8">How We Compare</h3>
           <div className="overflow-x-auto">
             <table className="w-full text-left">
@@ -202,7 +202,6 @@ const Pricing: React.FC = () => {
             </table>
           </div>
         </div>
-        </div>      
       </div>
     </section>
   );
