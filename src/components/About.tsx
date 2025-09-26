@@ -8,7 +8,8 @@ const About: React.FC = () => {
         <div className=" mb-16">
           <h2 className="text-4xl text-center font-bold text-gray-900 mb-4">About Our Institute</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We make Arabic learning simple, structured, and inspiring for Muslims like you worldwide. Our goal is to help you not only study Arabic, but live it, We help you speak with confidence, understand the Qur'an deeply, and grow into disciplined students rooted in the Qur'an, Sunnah, and Islam's classical heritage. Every lesson builds your fluency and confidence, from your first Arabic word to mastering complex scholarly texts.
+            We make Arabic learning simple, structured, and inspiring for Muslims like you worldwide. Our goal is to help you not only study Arabic, but live it, We help you speak with confidence, understand the Qur'an deeply, and grow into disciplined students rooted in the Qur'an, Sunnah, and Islam's classical heritage. 
+            Every lesson builds your fluency and confidence, from your first Arabic word to mastering complex scholarly texts.
           </p>
         </div>
 
