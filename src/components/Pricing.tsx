@@ -140,6 +140,68 @@ const Pricing: React.FC = () => {
               <p className="text-gray-600 text-sm">Continuous guidance and community access beyond the program</p>
             </div>
           </div>
+
+          <div className="bg-gradient-to-r from-gray-50 to-gray-100 rounded-2xl p-8">
+          <h3 className="text-2xl font-bold text-center text-gray-900 mb-8">How We Compare</h3>
+          <div className="overflow-x-auto">
+            <table className="w-full text-left">
+              <thead>
+                <tr className="border-b border-gray-300">
+                  <th className="py-4 px-6 font-semibold text-gray-900">Features</th>
+                  <th className="py-4 px-6 font-semibold text-emerald-600 text-center">Ibn Maalik Institute</th>
+                  <th className="py-4 px-6 font-semibold text-gray-500 text-center">Other Platforms</th>
+                </tr>
+              </thead>
+              <tbody className="text-gray-600">
+                <tr className="border-b border-gray-200">
+                  <td className="py-4 px-6">Live Interactive Classes</td>
+                  <td className="py-4 px-6 text-center">
+                    <span className="text-emerald-600 font-bold text-xl">✓</span>
+                  </td>
+                  <td className="py-4 px-6 text-center">
+                    <span className="text-gray-400 font-bold text-xl">✗</span>
+                  </td>
+                </tr>
+                <tr className="border-b border-gray-200">
+                  <td className="py-4 px-6">Small Class Sizes (Max 25)</td>
+                  <td className="py-4 px-6 text-center">
+                    <span className="text-emerald-600 font-bold text-xl">✓</span>
+                  </td>
+                  <td className="py-4 px-6 text-center">
+                    <span className="text-gray-400 font-bold text-xl">✗</span>
+                  </td>
+                </tr>
+                <tr className="border-b border-gray-200">
+                  <td className="py-4 px-6">Personal Follow-up Support</td>
+                  <td className="py-4 px-6 text-center">
+                    <span className="text-emerald-600 font-bold text-xl">✓</span>
+                  </td>
+                  <td className="py-4 px-6 text-center">
+                    <span className="text-gray-400 font-bold text-xl">✗</span>
+                  </td>
+                </tr>
+                <tr className="border-b border-gray-200">
+                  <td className="py-4 px-6">Free Qur'an Recitation Bonus</td>
+                  <td className="py-4 px-6 text-center">
+                    <span className="text-emerald-600 font-bold text-xl">✓</span>
+                  </td>
+                  <td className="py-4 px-6 text-center">
+                    <span className="text-gray-400 font-bold text-xl">✗</span>
+                  </td>
+                </tr>
+                <tr>
+                  <td className="py-4 px-6">Affordable Pricing</td>
+                  <td className="py-4 px-6 text-center">
+                    <span className="text-emerald-600 font-bold">$40-50</span>
+                  </td>
+                  <td className="py-4 px-6 text-center">
+                    <span className="text-gray-500">$200+</span>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
         </div>      
       </div>
     </section>
