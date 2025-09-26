@@ -140,10 +140,7 @@ const Pricing: React.FC = () => {
               <p className="text-gray-600 text-sm">Continuous guidance and community access beyond the program</p>
             </div>
           </div>
-        </div>
-
- 
-      
+        </div>      
       </div>
     </section>
   );
