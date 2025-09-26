@@ -11,7 +11,7 @@ const About: React.FC = () => {
             We are committed to making Arabic learning simple, structured, and inspiring for Muslims around the world. Our mission is to help students not only study Arabic, but live it — speaking with confidence, understanding the Qur’an more deeply, and building a lasting connection with the language.
           </p>
 
-          <p className="text-gray-600 text-lg leading-relaxed">
+          <p className="text-xl text-gray-600 max-w-3xl mx-auto">
                 Our goal is to raise disciplined students who are grounded in the Qur’an, Sunnah, and the classical heritage of Islam
                 Every lesson is designed to build confidence and fluency, whether you're taking 
                 your first steps in Arabic or looking to perfect your recitation.
@@ -23,7 +23,7 @@ const About: React.FC = () => {
         <div>
             <div className="mb-8">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">What Makes Us Different</h3>
-              <p className="text-gray-600 text-lg leading-relaxed mb-6">
+              {/* <p className="text-gray-600 text-lg leading-relaxed mb-6">
                 At Ibn Maalik Institute, we believe that learning Arabic opens doors to deeper spiritual 
                 connection and understanding. Our structured approach combines traditional teaching 
                 methods with modern technology to create an immersive learning experience.
@@ -32,7 +32,7 @@ const About: React.FC = () => {
                 Our goal is to raise disciplined students who are grounded in the Qur’an, Sunnah, and the classical heritage of Islam
                 Every lesson is designed to build confidence and fluency, whether you're taking 
                 your first steps in Arabic or looking to perfect your recitation.
-              </p>
+              </p> */}
             </div>
 
             <div className="grid grid-cols-2 gap-6">
