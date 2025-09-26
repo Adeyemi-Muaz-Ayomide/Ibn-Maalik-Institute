@@ -31,8 +31,8 @@ const Hero: React.FC = () => {
             </h1>
             
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">             
-              Transform your Arabic from beginner to fluent speaker. Expert tutors, live classes, limitless possibilities - all at Ibn Maalik Institute.
-              A structured path to connect with the Qur’an, the Sunnah, and the sciences that preserve our dīn—from anywhere in the world
+              {/* Transform your Arabic from beginner to fluent speaker. Expert tutors, live classes, limitless possibilities - all at Ibn Maalik Institute. */}
+              A structured path to connect your arabic with the Qur’an, the Sunnah, and the sciences that preserve our religion—from anywhere in the world
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-8">
