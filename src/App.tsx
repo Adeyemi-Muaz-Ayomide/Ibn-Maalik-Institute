@@ -17,12 +17,11 @@ function App() {
       <Header />
       <Hero />
       <About />
+      <WhyChooseUs />
       <WhatYoullLearn />
       <Pricing />
       <Testimonials />
-      <WhyChooseUs />
       <FAQ />
-     
       <Contact />
       <Footer />
     </div>
