@@ -6,7 +6,7 @@ const About: React.FC = () => {
     <section id="about" className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-gray-900 mb-4">About Tarteel Academy</h2>
+          <h2 className="text-4xl font-bold text-gray-900 mb-4">About Our Institute</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             We are dedicated to helping Muslims worldwide learn Arabic effectively, 
             with structured lessons and personalized support.
@@ -14,7 +14,6 @@ const About: React.FC = () => {
         </div>
 
         <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
-          {/* Video Section */}
           <div className="relative">
             <div className="bg-gradient-to-br from-emerald-100 to-amber-100 rounded-2xl p-8">
               <img
@@ -29,10 +28,7 @@ const About: React.FC = () => {
                   </svg>
                 </button>
               </div>
-            </div>
-            <div className="text-center mt-4">
-              <p className="text-gray-600 font-medium">Founder Introduction Video</p>
-            </div>
+            </div>      
           </div>
 
           {/* Content Section */}
