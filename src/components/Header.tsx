@@ -17,7 +17,7 @@ const Header: React.FC = () => {
           
       
 
-          <div className="hidden md:flex items-center space-x-4">
+          <div className="flex items-center space-x-4">
             <a
               href="https://wa.me/1234567890?text=Hi, I'm interested in joining Tarteel Academy!"
               target="_blank"
@@ -28,18 +28,18 @@ const Header: React.FC = () => {
             </a>
           </div>
 
-          <div className="md:hidden">
+          {/* <div className="md:hidden">
             <button
               onClick={() => setIsMenuOpen(!isMenuOpen)}
               className="text-gray-700 hover:text-emerald-600"
             >
               {isMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
             </button>
-          </div>
+          </div> */}
         </div>
       </div>
 
-      {isMenuOpen && (
+      {/* {isMenuOpen && (
         <div className="md:hidden">
           <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-white border-t">
             <a href="#home" className="block px-3 py-2 text-gray-700 hover:text-emerald-600">Home</a>
@@ -54,7 +54,7 @@ const Header: React.FC = () => {
             </a>
           </div>
         </div>
-      )}
+      )} */}
     </header>
   );
 };
