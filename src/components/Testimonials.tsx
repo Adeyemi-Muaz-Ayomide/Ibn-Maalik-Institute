@@ -63,68 +63,10 @@ const Testimonials: React.FC = () => {
           ))}
         </div>
 
-        {/* Video Testimonial Section */}
-        <div className="bg-white rounded-2xl p-8 text-center shadow-lg">
-          <h3 className="text-2xl font-bold text-gray-900 mb-6">Student Success Stories</h3>
-          <div className="grid md:grid-cols-2 gap-8">
-            <div className="relative">
-              <img
-                src="https://images.pexels.com/photos/8164654/pexels-photo-8164654.jpeg?auto=compress&cs=tinysrgb&w=600"
-                alt="Student Testimonial Video"
-                className="w-full h-64 object-cover rounded-xl"
-              />
-              <div className="absolute inset-0 bg-black bg-opacity-30 flex items-center justify-center rounded-xl">
-                <button className="bg-white rounded-full p-4 hover:scale-110 transition-transform">
-                  <svg className="w-8 h-8 text-emerald-600 ml-1" fill="currentColor" viewBox="0 0 20 20">
-                    <path d="M6.3 2.841A1.5 1.5 0 004 4.11V15.89a1.5 1.5 0 002.3 1.269l9.344-5.89a1.5 1.5 0 000-2.538L6.3 2.84z" />
-                  </svg>
-                </button>
-              </div>
-              <p className="mt-4 font-medium text-gray-800">Sarah's 90-Day Transformation</p>
-            </div>
-            <div className="relative">
-              <img
-                src="https://images.pexels.com/photos/8349218/pexels-photo-8349218.jpeg?auto=compress&cs=tinysrgb&w=600"
-                alt="Student Success Story"
-                className="w-full h-64 object-cover rounded-xl"
-              />
-              <div className="absolute inset-0 bg-black bg-opacity-30 flex items-center justify-center rounded-xl">
-                <button className="bg-white rounded-full p-4 hover:scale-110 transition-transform">
-                  <svg className="w-8 h-8 text-emerald-600 ml-1" fill="currentColor" viewBox="0 0 20 20">
-                    <path d="M6.3 2.841A1.5 1.5 0 004 4.11V15.89a1.5 1.5 0 002.3 1.269l9.344-5.89a1.5 1.5 0 000-2.538L6.3 2.84z" />
-                  </svg>
-                </button>
-              </div>
-              <p className="mt-4 font-medium text-gray-800">From Beginner to Fluent</p>
-            </div>
-          </div>
-        </div>
+ 
 
-        {/* Stats Section */}
-        <div className="mt-12 bg-gradient-to-r from-emerald-600 to-emerald-700 rounded-2xl p-8 text-white">
-          <div className="text-center mb-8">
-            <h3 className="text-2xl font-bold mb-2">Trusted by Students Worldwide</h3>
-            <p className="text-emerald-100">Join our growing community of Arabic learners</p>
-          </div>
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 text-center">
-            <div>
-              <div className="text-3xl font-bold mb-1">4.9★</div>
-              <div className="text-emerald-100 text-sm">Average Rating</div>
-            </div>
-            <div>
-              <div className="text-3xl font-bold mb-1">500+</div>
-              <div className="text-emerald-100 text-sm">Happy Students</div>
-            </div>
-            <div>
-              <div className="text-3xl font-bold mb-1">50+</div>
-              <div className="text-emerald-100 text-sm">Countries</div>
-            </div>
-            <div>
-              <div className="text-3xl font-bold mb-1">98%</div>
-              <div className="text-emerald-100 text-sm">Completion Rate</div>
-            </div>
-          </div>
-        </div>
+
+ 
 
         <div className="text-center mt-12">
           <a
