@@ -15,13 +15,13 @@ const Hero: React.FC = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Left Column - Content */}
           <div className="text-center lg:text-left">
-            {/* <div className="inline-flex items-center px-4 py-2 bg-emerald-100 text-emerald-800 rounded-full text-sm font-medium mb-6">
+            <div className="inline-flex items-center px-4 py-2 bg-emerald-100 text-emerald-800 rounded-full text-sm font-medium mb-6">
               <Star className="w-4 h-4 mr-2" />
               Trusted by 500+ Students Worldwide
-            </div> */}
-            <p class="mt-4 text-xl md:text-3xl text-emerald-600 px-3 py-1 rounded font-amiri">
+            </div>
+            {/* <p class="mt-4 text-xl md:text-3xl text-emerald-600 px-3 py-1 rounded font-amiri">
   معهد ابن مالك
-</p>
+</p> */}
 
             
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight mb-6">
