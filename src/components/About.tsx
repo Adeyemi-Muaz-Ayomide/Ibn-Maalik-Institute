@@ -54,20 +54,7 @@ const About: React.FC = () => {
             </div>
           </div> */}
 
-        {/* Stats Section */}
-        <div className="bg-gradient-to-r from-emerald-600 to-emerald-700 rounded-2xl p-8 text-white mt-10">
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center">
-            
-            <div>
-              <div className="text-3xl font-bold mb-2">25</div>
-              <div className="text-emerald-100">Max Cohort Size</div>
-            </div>
-            <div>
-              <div className="text-3xl font-bold mb-2">100%</div>
-              <div className="text-emerald-100">Student Satisfaction</div>
-            </div>
-          </div>
-        </div>
+ 
       </div>
     </section>
   );
