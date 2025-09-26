@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
               </span>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              Empowering Muslims worldwide to master Arabic and connect deeper with the Qur'an through expert-led, interactive learning.
+              Empowering Muslims worldwide to master Arabic and connect deeper with their religion through expert-led, interactive learning.
             </p>
             <div className="flex space-x-4">
              <a href="#" className="bg-blue-600 text-white p-3 rounded-full hover:bg-blue-700 transition-colors">
