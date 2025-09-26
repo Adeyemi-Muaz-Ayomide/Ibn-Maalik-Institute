@@ -50,22 +50,7 @@ const Hero: React.FC = () => {
               </button>
             </div>
 
-            {/* Stats */}
-            <div className="grid grid-cols-3 gap-8 text-center">
-              <div>
-                <div className="text-3xl font-bold text-emerald-600 mb-1">500+</div>
-                <div className="text-gray-600 text-sm">Students Taught</div>
-              </div>
-              <div>
-                <div className="text-3xl font-bold text-amber-500 mb-1">4.9★</div>
-                <div className="text-gray-600 text-sm">Average Rating</div>
-              </div>
-              <div>
-                <div className="text-3xl font-bold text-emerald-600 mb-1">50+</div>
-                <div className="text-gray-600 text-sm">Countries</div>
-              </div>
-            </div>
-          </div>
+          
           
 
           {/* Right Column - Image/Video */}
