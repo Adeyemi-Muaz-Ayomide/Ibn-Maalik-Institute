@@ -22,7 +22,7 @@ function App() {
       <Testimonials />
       <WhyChooseUs />
       <FAQ />
-      <Blog />
+     
       <Contact />
       <Footer />
     </div>
