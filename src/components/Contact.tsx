@@ -44,7 +44,7 @@ const Contact: React.FC = () => {
                     <h4 className="font-semibold text-gray-900 mb-2">Email</h4>
                     <p className="text-gray-600 mb-2">For detailed inquiries and enrollment</p>
                     <a href="mailto:info@tarteelacademy.com" className="text-emerald-600 hover:text-emerald-700 font-medium">
-                      info@tarteelacademy.com
+                      info@ibnmaalikinstitute.com
                     </a>
                   </div>
                 </div>
