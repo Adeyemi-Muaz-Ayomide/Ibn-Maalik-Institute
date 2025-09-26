@@ -69,7 +69,7 @@ const WhyChooseUs: React.FC = () => {
               <thead>
                 <tr className="border-b border-gray-300">
                   <th className="py-4 px-6 font-semibold text-gray-900">Features</th>
-                  <th className="py-4 px-6 font-semibold text-emerald-600 text-center">Tarteel Academy</th>
+                  <th className="py-4 px-6 font-semibold text-emerald-600 text-center">Ibn Maalik Institute</th>
                   <th className="py-4 px-6 font-semibold text-gray-500 text-center">Other Platforms</th>
                 </tr>
               </thead>
