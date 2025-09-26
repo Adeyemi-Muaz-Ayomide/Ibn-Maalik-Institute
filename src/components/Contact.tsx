@@ -19,7 +19,7 @@ const Contact: React.FC = () => {
               <h3 className="text-2xl font-bold text-gray-900 mb-6">Let's Connect</h3>
               
               <div className="space-y-6">
-                <div className="flex items-start">
+                <div className="flex items-start lg:items-center">
                   <MessageCircle className="w-6 h-6 text-green-600 mt-1 mr-4 flex-shrink-0" />
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-2">WhatsApp (Preferred)</h4>
