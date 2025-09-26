@@ -77,7 +77,7 @@ const Contact: React.FC = () => {
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-2">Global Reach</h4>
                     <p className="text-gray-600">
-                      Serving students in 50+ countries worldwide
+                      Serving students worldwide
                     </p>
                   </div>
                 </div>
