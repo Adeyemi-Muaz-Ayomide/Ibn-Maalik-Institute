@@ -124,32 +124,7 @@ const WhyChooseUs: React.FC = () => {
           </div>
         </div> */}
 
-        
-        {/* CTA Section */}
-        {/* <div className="mt-16 text-center">
-          <div className="bg-gradient-to-r from-emerald-600 to-emerald-700 rounded-2xl p-8 text-white">
-            <h3 className="text-2xl font-bold mb-4">Ready to Experience the Difference?</h3>
-            <p className="text-xl text-emerald-100 mb-6">
-              Join students like you who chose excellence in Arabic learning
-            </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a
-                href="https://wa.me/1234567890?text=Hi, I want to learn more about Tarteel Academy!"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="bg-white text-emerald-600 px-8 py-4 rounded-full hover:bg-gray-100 transition-colors font-bold text-lg"
-              >
-                Chat With Us Now
-              </a>
-              <a
-                href="#pricing"
-                className="bg-emerald-500 text-white px-8 py-4 rounded-full hover:bg-emerald-400 transition-colors font-bold text-lg border-2 border-white"
-              >
-                View Pricing
-              </a>
-            </div>
-          </div>
-        </div> */}
+      
       </div>
     </section>
   );
