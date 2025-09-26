@@ -10,7 +10,7 @@ const Header: React.FC = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <BookOpen className="h-8 w-8 text-emerald-600 ml-2" />
-            <span className="text-2xl font-bold text-emerald-800 mr-3" style={{ fontFamily: 'serif' }}>
+            <span className="text-xl md:text-2xl font-bold text-emerald-800 mr-3" style={{ fontFamily: 'serif' }}>
               Ibn Maalik Institute
             </span>
           </div>
