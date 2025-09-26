@@ -12,7 +12,7 @@ const Contact: React.FC = () => {
           </p>
         </div>
 
-        <div className="grid lg:grid-cols-2 gap-12">
+        <div className="grid gap-12">
           {/* Contact Information */}
           <div>
             <div className="bg-white rounded-2xl p-8 shadow-lg">
