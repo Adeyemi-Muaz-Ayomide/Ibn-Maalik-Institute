@@ -23,7 +23,7 @@ const Header: React.FC = () => {
             href="https://wa.me/1234567890?text=Hi, I'm interested in joining Ibn Maalik Institute!"
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-emerald-600 text-white px-4 py-1.5 sm:px-6 sm:py-2 rounded-full hover:bg-emerald-700 transition-colors font-semibold text-sm sm:text-base"
+            className="bg-emerald-600 text-white px-4 py-1.5 sm:px-6 sm:py-2 rounded-full hover:bg-emerald-700 transition-colors transition-all transform hover:scale-105 font-semibold text-sm sm:text-base"
           >
             Enroll Now
           </a>
