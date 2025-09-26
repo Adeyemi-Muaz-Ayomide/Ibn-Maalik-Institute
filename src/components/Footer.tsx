@@ -105,8 +105,9 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col lg:flex-row justify-between items-center">
             <div className="text-gray-400 text-sm mb-4 lg:mb-0">
-              © 2024 Tarteel Academy. All rights reserved. | Privacy Policy | Terms of Service
-            </div>
+  © {new Date().getFullYear()} Tarteel Academy. All rights reserved. | Privacy Policy | Terms of Service
+</div>
+
             
             {/* Payment Partners */}
             <div className="flex items-center space-x-4">
