@@ -129,7 +129,7 @@ const WhyChooseUs: React.FC = () => {
           <div className="bg-gradient-to-r from-emerald-600 to-emerald-700 rounded-2xl p-8 text-white">
             <h3 className="text-2xl font-bold mb-4">Ready to Experience the Difference?</h3>
             <p className="text-xl text-emerald-100 mb-6">
-              Join thousands of students who chose excellence in Arabic learning
+              Join students like you who chose excellence in Arabic learning
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
