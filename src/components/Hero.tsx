@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
               <Star className="w-4 h-4 mr-2" />
               Trusted by 500+ Students Worldwide
             </div> */}
-            <p class="mt-4 text-xl md:text-3xl bg-emerald-600 text-white px-3 py-1 rounded font-amiri">
+            <p class="mt-4 text-xl md:text-3xl text-emerald-600 px-3 py-1 rounded font-amiri">
   معهد ابن مالك
 </p>
 
