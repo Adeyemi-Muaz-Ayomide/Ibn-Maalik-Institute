@@ -32,6 +32,7 @@ const Hero: React.FC = () => {
             
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
               Master Arabic with confidence. Join Ibn Maalik Institute for live, personalized tutoring with expert instructors from anywhere in the world.
+              Transform your Arabic from beginner to fluent speaker. Expert tutors, live classes, limitless possibilities - all at Ibn Maalik Institute.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-8">
