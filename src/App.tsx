@@ -8,7 +8,6 @@ import Testimonials from './components/Testimonials';
 import WhyChooseUs from './components/WhyChooseUs';
 import FAQ from './components/FAQ';
 import Blog from './components/Blog';
-import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 function App() {
@@ -22,7 +21,6 @@ function App() {
       <Pricing />
       <Testimonials />
       <FAQ />
-      <Contact />
       <Footer />
     </div>
   );
